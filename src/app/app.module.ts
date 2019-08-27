@@ -24,7 +24,7 @@ import { InterceptorService } from './core/services/interceptor.service';
     LoadingBarHttpClientModule,
     AccessControlModule,
     MainModule
-  ],comm
+  ],
   providers: [
     {
       provide: HTTP_INTERCEPTORS,
